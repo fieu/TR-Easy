@@ -14,3 +14,9 @@ One liner install for the Transmission BitTorrent client as well as the web UI a
 3. Configure the file your liking in the `# Settings` section.
 
 4. Run: `./TR-Easy.sh`
+
+5. Run the command it tells you to run.
+
+6. Run: `tsm-daemon`
+
+7. Open up `http://$HOSTNAME:9091` to connect to the transmission web UI.
