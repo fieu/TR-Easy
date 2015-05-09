@@ -1,6 +1,6 @@
 #!/bin/bash
 # Application Name: TR-Easy
-# Description: One liner install for transmission as well as the web UI addon and a few helpful functions.
+# Description: One liner install for the Transmission BitTorrent client as well as the web UI addon and a few helpful functions.
 # Author('s): Sheldon Rupp (http://sheldonrupp.me)
 # Last time edited
 

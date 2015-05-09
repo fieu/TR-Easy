@@ -1,5 +1,5 @@
 # TR-Easy
-One liner install for transmission as well as the web UI addon and a few helpful functions.
+One liner install for the Transmission BitTorrent client as well as the web UI addon and a few helpful functions.
 
 ### Important Requirements:
 - **Must** be running Ubuntu 12.10 or newer
