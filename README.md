@@ -15,7 +15,7 @@ One liner install for the Transmission BitTorrent client as well as the web UI a
 
 4. Run: `./TR-Easy.sh`
 
-5. Run the command it tells you to run.
+5. Run the `source` command it tells you to run.
 
 6. Run: `tsm-daemon`
 
