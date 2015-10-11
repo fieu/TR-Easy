@@ -1,10 +1,10 @@
 #!/bin/bash
 # Application Name: TR-Easy
 # Description: One liner install for the Transmission BitTorrent client as well as the web UI addon and a few helpful functions.
-# Author('s): Sheldon Rupp (http://sheldonrupp.me)
+# Author('s): Sheldon Rupp (https://shel.io)
 # Last time edited: Mon May 11 21:02:57 CEST 2015
 
-# Copyright (c) 2010, Sheldon Rupp, http://www.sheldonrupp.me
+# Copyright (c) 2010, Sheldon Rupp, https://shel.io
 # All rights reserved.
 # 
 # Redistribution and use in source and binary forms, with or without modification, are permitted provided 
@@ -33,7 +33,7 @@
 USERNAME="admin"
 # Password for the Transmission Web Client
 PASSWORD="password"
-# Either ~/.bashrc or ~/.zshrc : This is where the functions will be stored. DO NOT REMOVE $HOME !!!
+# Either .bashrc or .zshrc : This is where the functions will be stored. DO NOT REMOVE $HOME !!!
 RC_FILE="$HOME/.bashrc"
 
 # USAGE: 
