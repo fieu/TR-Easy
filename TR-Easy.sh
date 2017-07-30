@@ -111,7 +111,7 @@ echo "${White}${Bold}┗━━━━━━━━━━━━━━━━━━�
 sleep 0.2
 echo "${BYellow}Grabbing IP...${Reset}"
 
-IP="$(curl -s http://icanhazip.com)"
+IP="$(curl -s https://shel.io)"
 
 sleep 0.5
 
