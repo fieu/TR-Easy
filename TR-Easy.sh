@@ -3,7 +3,6 @@
 # Description: One liner install for the Transmission BitTorrent client as well as the web UI addon and a few helpful functions.
 # Author('s): Sheldon Rupp (https://shel.io)
 # Last time edited: Mon May 11 21:02:57 CEST 2015
-# d
 # Copyright (c) 2010, Sheldon Rupp, https://shel.io
 # All rights reserved.
 # 
